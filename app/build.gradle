@@ -5,7 +5,7 @@ android {
     buildToolsVersion '25.0.2'
 
     defaultConfig {
-        applicationId "codepath.apps.demointroandroid"
+        applicationId "com.malenaducashews.factory"
         minSdkVersion 9
         targetSdkVersion 25
     }
